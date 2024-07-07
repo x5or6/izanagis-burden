@@ -1,5 +1,4 @@
-# Setup Git
-
+# vs-code
 ## Do more
 - learn ctrl shift p
 
