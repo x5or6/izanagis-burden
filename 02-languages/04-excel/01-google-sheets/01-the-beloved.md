@@ -22,6 +22,7 @@
 
 ### Colors
 - https://coolors.co/palettes/popular/shades
+- https://colordesigner.io/gradient-generator
 
 | Movies (Greens)  | TV Series (Blues)| Animation (Purple)|   Music (Reds)    | Gaming (Browns)   | Books (Blacks)    |
 | -----------------| -----------------| ----------------- | ----------------- | ----------------- | ----------------- |
